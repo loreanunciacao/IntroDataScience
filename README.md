@@ -14,3 +14,7 @@
 * Visualizando as outras categorias
 *  Refinando visualizações
 *  Média, mediana, desvio padrão, boxplot, histograma, tendência central e dispersão, como tudo isso se encaixa
+
+#### Requisitos
+* Jupyter Notebook, com pandas e bibliotecas seaborn e matplotlib
+* Ou usar plataforma Google Colab
